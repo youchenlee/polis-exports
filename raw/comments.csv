@@ -18,3 +18,4 @@ timestamp,datetime,comment-id,author-id,agrees,disagrees,moderated,comment-body
 1686391953549,Sat Jun 10 10:12:33 UTC 2023,16,10,2,0,0,new comment 12
 1686392112151,Sat Jun 10 10:15:12 UTC 2023,17,10,2,0,0,測試中翻英
 1686393467571,Sat Jun 10 10:37:47 UTC 2023,18,10,1,0,0,This is a new comment to test Google Cloud Translation API
+1686391953549,Sat Jun 18 10:12:33 UTC 2023,16,10,2,0,0,new comment 12
